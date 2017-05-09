@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://euphmike.github.io"  # the base hostname & protocol for your site
+url: "http://mikekwaddell.com"  # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Mike Waddell
-  avatar: profile.jpg
+  avatar: Profile.jpg
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
@@ -40,6 +40,7 @@ theme_settings:
   youtube:
 
   # Scripts
+
   google_analytics: "UA-98650371-1"
   disqus_shortname:
   katex: true # Enable if using math markup
